@@ -14,7 +14,7 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
 <img align="left" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" title="MySQL" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" />
+<img align="left" title="MySQL" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%232A8EB9" />
 <img align="left" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" title="C" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/c/original.svg" />
 <br />
