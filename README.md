@@ -22,8 +22,6 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
 <img align="left" title="C" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/c/original.svg" />
 <img align="left" title="JetBrain" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/jetbrains/original.svg" />
 
----
-
 ### ☝️ Interesses:
 
 <p>Tenho interesse que abrengem várias áreas da tecnologia, dentre as quais eu destaco - dentro dá área de engenharia de software:></p>
@@ -34,8 +32,6 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
   <li>Single-page applications - SPAs</li>
   <li>Desenvolvimento para IOS</li>
 </ul>
-
----
 
 ### Ao ler meus repositórios,
 <p>se encontrou algo útil ou interessante e acredita que posso contribuir para algum projeto, ou se acredita que posso ajudar, entre em contato comigo:</p>
