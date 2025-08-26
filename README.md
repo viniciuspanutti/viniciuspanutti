@@ -23,6 +23,8 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
 <img align="left" title="JetBrain" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/jetbrains/original.svg" />
 <br/>
 
+<hr/>
+
 ### ☝️ Interesses:
 
 <p>Tenho interesse que abrengem várias áreas da tecnologia, dentre as quais eu destaco - dentro dá área de engenharia de software:></p>
