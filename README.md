@@ -37,6 +37,7 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
 <br/>
 
 ---
+
 ### Ao ler meus repositórios,
 <p>se encontrou algo útil ou interessante e acredita que posso contribuir para algum projeto, ou se acredita que posso ajudar, entre em contato comigo:</p>
 <p>
