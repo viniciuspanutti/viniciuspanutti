@@ -8,7 +8,7 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
 <br/>
 
 
-### 🔧🧰 Linguagens e Ferramentas
+### 🔧🧰 Linguagens e Ferramentas <br/>
 
 <img align="left" title="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" title="Ubuntu" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg?color=%23F04C10" />
