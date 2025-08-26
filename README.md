@@ -4,7 +4,7 @@
 
 **`Estudante de Engenharia de Software na PUC-Campinas — aspirante a estagiário`**
 
-Sou um quase-desenvolvedor com competências para criar projetos e desenvolver contribuições - explorando o mundo do desenvolvimento enquanto isso. Muitos dos meus repositórios são estudos de cunho teórico aplicado à pratica, onde desenvolvo e crio protótipos para testar e aprender fazendo. Com a soma de alguns dos meus projetos práticos e contribuições, procuro uma oportunidade de uma vaga de estágio onde mostrarei minhas habilidades únicas em html, para criar carreira sólida e fazer bilhões de dólares.
+Sou um quase-desenvolvedor com competências para criar projetos e desenvolver contribuições - explorando o mundo do desenvolvimento enquanto isso. Muitos dos meus repositórios são estudos de cunho teórico aplicado à pratica, onde desenvolvo e crio protótipos para testar e aprender fazendo. Com a soma de alguns dos meus projetos práticos e contribuições, procuro uma oportunidade de uma vaga de estágio onde mostrarei minhas habilidades únicas em html, para criar carreira sólida e fazer trilhões de dólares.
 
 ### 🔧🧰 Linguagens e Ferramentas
 
