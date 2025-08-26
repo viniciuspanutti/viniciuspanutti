@@ -34,7 +34,6 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
   <li>Single-page applications - SPAs</li>
   <li>Desenvolvimento para IOS</li>
 </ul>
-<br/>
 
 ---
 
