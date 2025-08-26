@@ -6,8 +6,6 @@
 
 Sou um quase-desenvolvedor com competências para criar projetos e desenvolver contribuições - explorando o mundo do desenvolvimento enquanto isso. Muitos dos meus repositórios são estudos de cunho teórico aplicado à pratica, onde desenvolvo e crio protótipos para testar e aprender fazendo. Com a soma de alguns dos meus projetos práticos e contribuições, procuro uma oportunidade de uma vaga de estágio onde mostrarei minhas habilidades únicas em html, para criar carreira sólida e fazer bilhões de dólares.
 
----
-
 ### 🔧🧰 Linguagens e Ferramentas
 
 <img align="left" title="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -35,6 +33,8 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
   <li>Single-page applications - SPAs</li>
   <li>Desenvolvimento para IOS</li>
 </ul>
+
+<hr/>
 
 ### Ao ler meus repositórios,
 <p>se encontrou algo útil ou interessante e acredita que posso contribuir para algum projeto, ou se acredita que posso ajudar, entre em contato comigo:</p>
