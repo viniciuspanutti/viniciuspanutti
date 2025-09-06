@@ -55,3 +55,4 @@ Sou um quase-desenvolvedor com competências para criar projetos e desenvolver c
 ### 📊 Estatísticas:
 
 ![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspanutti&show_icons=true&theme=gruvbox)
+  <img src="https://camo.githubusercontent.com/b58fe027ba2a246dd59fda7274e558dced4a3864b23e444c1cfb82a0696023b8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d617874686261267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspanutti&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" style="max-width: 100%;">
