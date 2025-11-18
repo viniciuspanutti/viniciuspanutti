@@ -9,7 +9,7 @@ Mantenho meus repositórios para fins de estudos, projetos pessoais, aulas impor
 ### 🔧🧰 Linguagens e Ferramentas que uso <br/>
 
 <img align="left" title="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" title="Ubuntu" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg?color=%23F04C10" />
+<img align="left" title="Debian" width="36px" style="padding-right:10px;" src="htps://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
 <img align="left" title="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" title="HTML5" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" title="CSS3" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
