@@ -25,11 +25,13 @@ Mantenho meus repositórios para fins de estudos, projetos pessoais, aulas impor
 
 <p>Tenho interesses que abrengem várias áreas da tecnologia, dentre as quais eu destaco, dentro dá área de engenharia de software:></p>
 <ul>
-  <ul>Desenvolvimento web fullstack
-    <li>E-commerce</li>
-    <li>Software como serviço - SaaS</li>
-    <li>Single-page applications - SPAs</li>
-  </ul>
+  <li>Desenvolvimento web fullstack
+      <ul>
+        <li>E-commerce</li>
+        <li>Software como serviço - SaaS</li>
+        <li>Single-page applications - SPAs</li>
+      </ul>
+  </li>
   <li>Desenvolvimento para IOS</li>
   <li>Sistemas embarcados, IOS e automações</li>
   <li>Softwares empresariais (erp/erm)</li>
