@@ -16,6 +16,7 @@ Mantenho meus repositórios para fins de estudos, projetos pessoais, aulas impor
 <img align="left" title="JavaScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" title="TypeScript" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
 <img align="left" title="MySQL" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%232A8EB9" />
+<img align="left" title="SQL Developer" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/oracle/original.svg"></img>
 <img align="left" title="Python" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" title="C" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/c/original.svg" />
 <br/>
