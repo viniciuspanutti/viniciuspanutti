@@ -1,7 +1,5 @@
 ## Olá! 👋
 
-**`Estudante de Engenharia de Software na PUC-Campinas — 3ºperíodo`**
-
 Usando github no momento apenas fins de estudos da faculdade.
 <hr/>
 
@@ -21,19 +19,3 @@ Usando github no momento apenas fins de estudos da faculdade.
 <br/>
 
 <hr/>
-
-### ☝️ Interesses:
-
-<p>Tenho interesses que abrengem várias áreas da tecnologia, dentre as quais eu destaco, dentro dá área de engenharia de software:></p>
-<ul>
-  <li>Desenvolvimento web fullstack
-      <ul>
-        <li>E-commerce</li>
-        <li>Software como serviço - SaaS</li>
-        <li>Single-page applications - SPAs</li>
-      </ul>
-  </li>
-  <li>Desenvolvimento para IOS</li>
-  <li>Sistemas embarcados, IOS e automações</li>
-  <li>Softwares empresariais (erp/erm)</li>
-</ul>
