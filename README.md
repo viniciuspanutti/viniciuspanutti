@@ -6,7 +6,7 @@ Usando github no momento apenas fins de estudos da faculdade.
 ### 🔧🧰 Linguagens e Ferramentas familiares <br/>
 
 <img align="left" title="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" title="Debian" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/debian/original.svg"></img>
+<img align="left" title="Debian OS" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/debian/original.svg"></img>
 <img align="left" title="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" title="HTML5" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" title="CSS3" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
