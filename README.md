@@ -16,4 +16,5 @@ Usando github no momento apenas fins de estudos da faculdade.
 <img align="left" title="Python" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" title="C" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/c/original.svg" />
 <img align="left" title="Flutter" width="36px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/flutter/original.svg"></img>
+<img align="left" title="Flutter" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"></img>
 <br/>
